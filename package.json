@@ -1,6 +1,6 @@
 {
   "name": "@kgilden/fullcalendar-vue",
-  "version": "5.3.1",
+  "version": "5.3.1-1",
   "title": "FullCalendar Vue Component",
   "description": "Kristen Gilden's fork of the official FullCalendar component for Vue",
   "keywords": [
