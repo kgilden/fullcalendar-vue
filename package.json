@@ -1,8 +1,8 @@
 {
-  "name": "@fullcalendar/vue",
+  "name": "@kgilden/fullcalendar-vue",
   "version": "5.3.1",
   "title": "FullCalendar Vue Component",
-  "description": "An official FullCalendar component for Vue",
+  "description": "Kristen Gilden's fork of the official FullCalendar component for Vue",
   "keywords": [
     "vue",
     "calendar",
@@ -12,7 +12,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fullcalendar/fullcalendar-vue.git"
+    "url": "https://github.com/kgilden/fullcalendar-vue.git"
   },
   "scripts": {
     "tsc": "tsc -p tsconfig.json",
